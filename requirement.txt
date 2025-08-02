@@ -1,0 +1,8 @@
+This lists all Python packages your project depends on:
+requests
+beautifulsoup4
+feedparser
+lxml
+nltk
+python-dotenv
+openai
