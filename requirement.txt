@@ -1,8 +1,10 @@
-This lists all Python packages your project depends on:
-requests
-beautifulsoup4
-feedparser
-lxml
-nltk
-python-dotenv
-openai
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+feedparser>=6.0.11
+lxml>=5.2.1
+nltk>=3.8.1
+python-dotenv>=1.0.1
+openai>=1.33.0
+google-generativeai>=0.4.1
+
+
